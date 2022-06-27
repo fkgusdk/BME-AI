@@ -1,3 +1,3 @@
 # BME-AI
 
-### Thnks to Nam-Yoon-Ho professor
+### Thnks to Nam-YoonHo professor
